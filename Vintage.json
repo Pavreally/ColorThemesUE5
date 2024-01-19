@@ -20,7 +20,7 @@
 		"EStyleColor::Hover2": "(R=0.525490,G=0.356863,B=0.380392,A=1.000000)",
 		"EStyleColor::White": "(R=1.000000,G=1.000000,B=1.000000,A=1.000000)",
 		"EStyleColor::White25": "(R=1.000000,G=1.000000,B=1.000000,A=0.250980)",
-		"EStyleColor::Highlight": "(R=0.869792,G=0.590679,B=0.629625,A=1.000000)",
+		"EStyleColor::Highlight": "(R=0.343750,G=0.250651,B=0.263642,A=1.000000)",
 		"EStyleColor::Primary": "(R=0.260417,G=0.177083,B=0.187500,A=1.000000)",
 		"EStyleColor::PrimaryHover": "(R=0.525490,G=0.356863,B=0.380392,A=1.000000)",
 		"EStyleColor::PrimaryPress": "(R=0.182292,G=0.123958,B=0.131250,A=1.000000)",
